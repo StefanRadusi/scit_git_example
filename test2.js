@@ -1,3 +1,2 @@
-let a = 123;
-let p = 2;
-let x = 999;
+let a = 1;
+let b = 3;
